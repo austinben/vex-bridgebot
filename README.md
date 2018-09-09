@@ -2,7 +2,7 @@
 
 Showcase of code written to run an autonomous robot using a VEX Robotics kit. 
 
-## Backround
+## Background
 
 As a first year engineering project, students at the University of Victoria were asked to design and build a prototype autonomous robot using a VEX Robotics kit. The robot was meant to be a prototype of a possible underwater cable connecting robot that would be used by [Ocean Networks Canada](http://www.oceannetworks.ca/).
 
