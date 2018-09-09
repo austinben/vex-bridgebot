@@ -12,6 +12,9 @@ The prototype was meant to be a proof of concept for beacon location and cable c
 
 Our team built a wide, tall robot that simply positioned itself directley above the beacon. We called this robot the bridgebot, as it somewhat resembeled a bridge.
 
+![](IMG_20180322_132912.jpg)
+![](test.gif)
+
 
 ## Code
 
